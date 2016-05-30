@@ -1,3 +1,3 @@
 var mongoose = require("mongoose");
 
-module.exports = mongoose.connect("mongodb://heroku_bff5jb19:s7h74vaahvn588k1qu6mvgaa7@ds021711.mlab.com:21711/heroku_bff5jb19");
+module.exports = mongoose.connect("mongodb://heroku_9wzp94vd:q9a13m1dpm02oqlmv9j9cvccai@ds043972.mlab.com:43972/heroku_9wzp94vd");
